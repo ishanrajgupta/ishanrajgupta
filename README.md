@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Raj Gupta</h1>
-<h3 align="center">🚀 Frontend Developer | Software Engineer | AI Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Software Engineer | AI Enthusiast</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
